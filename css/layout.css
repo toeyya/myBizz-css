@@ -1,0 +1,83 @@
+.container {
+    height: 600px;
+    width: 280px;
+    margin: auto;
+    box-sizing: border-box;
+    background: #fff;
+}
+
+.profile {
+    width: 280px;
+    height: 280px;
+    position: relative;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background: #EEE;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    vertical-align: bottom;
+    left: 11px;
+    bottom: 11px;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+.btn-edit {
+    border-radius: 28px;
+    background: #FF0000;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 16px;
+    bottom: -24px;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    padding: 17px;
+    /* box-shadow: 5px 10px grey; */
+
+}
+
+.detail {
+    background: #ffffff; 
+    padding:14px;
+}
+.container-2 {
+    box-sizing: border-box;
+    height: 65px;
+}
+
+.float-left {
+    float: left;
+}
+.text-grey{
+    color: #ccc;
+}
+
+
+.float-right {
+    float: right;
+    position: relative;
+    top:14px;
+}
+
+
+h2 {
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.orders {
+    font-size: 14px;
+}
+
